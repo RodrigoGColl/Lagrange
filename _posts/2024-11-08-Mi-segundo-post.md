@@ -5,7 +5,6 @@ date: 2024-11-08
 author: "Rodrigo Gonzalez"
 image: ciberseguridad-empresas.jpg
 ---
- 
 ## Seguridad y Alta Disponibilidad (SAD)
 
  
