@@ -3,6 +3,7 @@ layout: post
 title:  Programacion
 categories: jekyll update
 author: "Rodrigo Gonzalez"
+image: programador.jpg
 ---
 # Introducción a la Asignatura de Programación Avanzada
 
